@@ -55,7 +55,6 @@ After review, there doesn’t seem to be any significant security impact as a re
 Account lockout is a feature to prevent active brute forcing of credentials.
 As a result, we will be closing this report as informative. If you are able to leverage this into a practical exploitation scenario, we will be happy to reevaluate this report.
 This will not have any impact on your Signal or Reputation score. We appreciate your effort and look forward to seeing more reports from you in the future.
-Kind regards,
 -----------------------------------------------------------------------------------------------
 
 ❓ FAQ
