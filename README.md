@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="32" height="32" /> **CVE-PENDING** | 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="32" height="32" /> **ZERO-DAY** | 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="32" height="32" /> **UNPATCHED**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="32" height="32" /> **PATCHED**
 
 A critical logic flaw in PayPal's account recovery "Verify Options" page allows an attacker to manipulate the verification process. By exploiting inconsistent state handling, an attacker with access to a single verification method (e.g., email) can systematically remove other obstacles (e.g., SMS) to achieve a full Account Takeover (ATO).
 
